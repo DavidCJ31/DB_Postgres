@@ -1,0 +1,2 @@
+CREATE DATABASE :v1;
+\q

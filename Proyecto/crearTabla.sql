@@ -1,0 +1,2 @@
+CREATE TABLE :v1(region varchar(45),country varchar(45),item_type varchar(30),sales_channel varchar(20),order_priority varchar(15), order_date varchar(10), order_id int, ship_date varchar(10), units_sold int, unit_price float, unit_cost float, total_revenue float, total_cost float, total_profit float);
+\q
